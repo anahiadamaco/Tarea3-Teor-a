@@ -1,5 +1,5 @@
 from lexer import Token, Lexer, LexerError
-from ast import ASTNode
+from ast_nodes import ASTNode
 
 class ParserError(Exception):
     pass
