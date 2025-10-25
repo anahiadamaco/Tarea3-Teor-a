@@ -1,0 +1,3 @@
+INTEGER 1A
+A = 10 +
+END

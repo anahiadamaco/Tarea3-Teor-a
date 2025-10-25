@@ -1,0 +1,3 @@
+INTEGER A B
+A = (10 + )
+END
